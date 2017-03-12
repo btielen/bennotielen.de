@@ -1,0 +1,17 @@
+.resume-time {
+    border-left: 1px solid #74949e;
+    margin: 15px;
+}
+
+.resume-item-year {
+    font-weight: bold;
+    margin-right: 30px;
+}
+
+.resume {
+    margin-top: 50px;
+}
+
+h3 {
+    color: #c7c7c7;
+}
